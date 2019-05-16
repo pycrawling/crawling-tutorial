@@ -1,3 +1,3 @@
 # clawling-tutorial
 
-https://pycrawling.blogspot.com/
+https://comdoc.tistory.com
